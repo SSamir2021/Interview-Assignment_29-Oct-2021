@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Ejyle_Assignment_WebApp.Models.Shipment>
+
+@{
+    ViewBag.Title = "Manage Shipment";
+}
+
+<h2>Manage Shipment</h2>
+
+<p>
+    @Html.ActionLink("Create New Shipment", "GetCreateShipment")
+</p>
+<h4>List of Shipments</h4>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SenderName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecipientAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Expedited)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ShipmentType)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SenderName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RecipientAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Expedited)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipmentType)
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "DeleteShipment", new { shipmentId = item.ShipmentId }, new { onclick = "return confirm('Are you sure you want to delete this shipment?');" })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+<span style="color: darkgreen">@ViewBag.SuccessMessage</span>
+<span style="color: red">@ViewBag.ErrorMessage</span>

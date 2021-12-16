@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejyle_Assignment_WebApp", "Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp.csproj", "{E60FED88-C3C6-4D28-9D96-2387D3B95055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60FED88-C3C6-4D28-9D96-2387D3B95055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60FED88-C3C6-4D28-9D96-2387D3B95055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60FED88-C3C6-4D28-9D96-2387D3B95055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60FED88-C3C6-4D28-9D96-2387D3B95055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECA6645-9CAE-44C0-89A4-205A66DDA8B1}
+	EndGlobalSection
+EndGlobal

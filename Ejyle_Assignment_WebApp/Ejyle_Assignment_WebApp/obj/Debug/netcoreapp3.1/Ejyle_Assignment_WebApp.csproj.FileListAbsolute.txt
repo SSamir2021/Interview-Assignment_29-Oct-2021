@@ -1,0 +1,122 @@
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.exe
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.deps.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.runtimeconfig.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.runtimeconfig.dev.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csprojAssemblyReference.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.AssemblyInfoInputs.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.AssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorAssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.TagHelpers.input.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.TagHelpers.output.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorCoreGenerate.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorTargetAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorTargetAssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\Ejyle_Assignment_WebApp.StaticWebAssets.Manifest.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\Ejyle_Assignment_WebApp.StaticWebAssets.xml
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.genruntimeconfig.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csproj.CopyComplete
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateShipment.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageShipment.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csproj.CoreCompileInputs.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.exe
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.deps.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.runtimeconfig.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.runtimeconfig.dev.json
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csprojAssemblyReference.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.AssemblyInfoInputs.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.AssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csproj.CoreCompileInputs.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorAssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.TagHelpers.input.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.TagHelpers.output.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorCoreGenerate.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateShipment.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageShipment.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorTargetAssemblyInfo.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.RazorTargetAssemblyInfo.cs
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.Views.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.csproj.CopyComplete
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\Ejyle_Assignment_WebApp.StaticWebAssets.Manifest.cache
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\staticwebassets\Ejyle_Assignment_WebApp.StaticWebAssets.xml
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.dll
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.pdb
+E:\Projects\Coding Assignments\Ejyle Assignment\Assignment_Samir Singh_29-10-2021\Ejyle_Assignment_WebApp\Ejyle_Assignment_WebApp\obj\Debug\netcoreapp3.1\Ejyle_Assignment_WebApp.genruntimeconfig.cache
