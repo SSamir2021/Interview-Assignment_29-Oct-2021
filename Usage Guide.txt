@@ -1,8 +1,8 @@
-1) Create table "Shipment" in SQL Server database, as per the table creation script present in current folder.
+1) Create table "Shipment" in SQL Server database, as per the table creation script "Table creation script_SQL Server.sql" present in current folder.
 
 2) The application has been created using ASP.Net Core MVC in Visual Studio 2019.
 
 3) Open the ASP.Net Core MVC application in Visual Studio 2019, and change the connection string in appsettings.json file
-as per the database and server name.
+as per the SQL Server database and server name.
 
 4) Build the solution once, and then run it.
